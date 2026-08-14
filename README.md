@@ -2,9 +2,8 @@
 
 A modern, high-performance **GitHub Flavored Markdown (GFM) Studio & Previewer** built with **React 19**, **Vite**, and **Tailwind CSS**. It provides side-by-side real-time GFM rendering, drag-and-drop file uploading, multi-format clipboard export, and graceful error handling.
 
-🌐 **Live Application Demo:** [Insert Your Hosted App Link Here (e.g., Vercel / Netlify)]  
-📦 **GitHub Repository:** [Insert Repository Link Here]
-
+🌐 **Live Application Demo:** https://markdown-viewer-theta.vercel.app/
+📦 **GitHub Repository:** https://github.com/thushararamadas/markdown-viewer
 ---
 
 ## 📋 Technical Compliance Checklist
@@ -90,3 +89,8 @@ Focus was placed on delivering a polished core experience within the 4–6 hour 
 1. **Markdown Syntax Diagnostics / Linter Panel**: Real-time diagnostic alerts highlighting unclosed code fences, orphan backticks, or broken links.
 2. **Export Capabilities**: One-click download of rendered documents as PDF or standalone HTML files.
 3. **Resizable & Fullscreen Viewport**: Interactive pane splitter to resize the raw source vs preview panels dynamically.
+
+
+
+
+
